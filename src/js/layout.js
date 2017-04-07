@@ -4,7 +4,7 @@ import ReactDOM from "react-dom";
 class Layout extends React.Component{
   constructor (){
     super()
-  },
+  }
   render() {
     return (
       <div>
