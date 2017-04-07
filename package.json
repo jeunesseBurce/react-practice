@@ -21,7 +21,7 @@
     "webpack": "^1.14.0"
   },
   "scripts": {
-    "dev": " "
+    "start": "webpack --config webpack.config.js"
   },
   "author": "Jeunesse Burce",
   "repository": {
